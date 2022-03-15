@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyEmojiApplication</string>
+    <string name="congrats">Congrats!</string>
+    <string name="failed">Failed!</string>
+</resources>
